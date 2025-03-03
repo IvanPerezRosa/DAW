@@ -7,4 +7,3 @@
 | Giovanni Barroso  | [GitHub 1](https://github.com/GiovanniBarroso) |
 | Julio García      | [GitHub 2](https://github.com/Juliogarort) |
 | Jesús Uruñuela    | [GitHub 3](https://github.com/JesusUruGar) |
-|-------------------|--------|
